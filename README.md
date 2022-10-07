@@ -19,8 +19,8 @@ Day 2
 6.123 456 789 *0#
 7.Generate paranthesis
 8.Regular expression
-9.year is divided into four seasons
-10.remove the words that are common in two strings
+9.seasons
+10.remove words
        
  Day 3
  1.Trading
