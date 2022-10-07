@@ -15,8 +15,8 @@ Day 2
 2.leap year
 3.maximum number of words found in sentence
 4.Merge list
-5.Basic calculator II
-6.123 456 789 *0#
+5.Basic calculator
+6.calcuator
 7.Generate paranthesis
 8.string pattern
 9.seasons
