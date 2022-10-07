@@ -31,5 +31,5 @@ Day 2
  6.Mirror image
  7.Permutations
  8.Anagram
- 9.regular expression
+ 9.string pattern
  10.Convert one word to another words
