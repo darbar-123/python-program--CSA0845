@@ -3,10 +3,10 @@ Day 1
 2.sumsquare
 3.Happy number
 4.palindrome
-5.Bread program
+5.Brakery sells
 6.container program
 7.lexicographically sorted
-8.Decimal number
+8.valid number
 9.maximum number of guests
 10.Modify the string 
    
