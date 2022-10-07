@@ -33,3 +33,15 @@ Day 2
  8.Anagram
  9.string pattern
  10.Convert one word to another words
+ 
+ Day 4
+ 1.return a string
+ 2.number of student users
+ 3.current number
+ 4.palindrome
+ 5.minimum number of jumps
+ 6.deleting occurences
+ 7.vowel strings
+ 8.roman to integer
+ 9.seasons
+ 10.scramble string
