@@ -1,7 +1,7 @@
 Day 1
 1.isomorphic
 2.sumsquare
-3.Happy number
+3.n is happy
 4.palindrome
 5.Brakery sells
 6.container program
