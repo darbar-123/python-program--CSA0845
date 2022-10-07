@@ -14,7 +14,7 @@ Day 2
 1.climbing a staircase
 2.leap year
 3.maximum number of words found in sentence
-4.Merge two lists
+4.Merge list
 5.Basic calculator II
 6.123 456 789 *0#
 7.Generate paranthesis
