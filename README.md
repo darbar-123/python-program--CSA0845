@@ -18,7 +18,7 @@ Day 2
 5.Basic calculator II
 6.123 456 789 *0#
 7.Generate paranthesis
-8.Regular expression
+8.string pattern
 9.seasons
 10.remove words
        
