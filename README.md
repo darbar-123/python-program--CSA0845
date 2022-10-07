@@ -25,7 +25,7 @@ Day 2
  Day 3
  1.Trading
  2.possible combinations
- 3.array of integers
+ 3.number of good pairs
  4.Add binary
  5.Minimum number of jumps to reach the end of array
  6.Mirror image
